@@ -2,9 +2,9 @@
   "author": "Athahar",
   "name": "uppercaseme",
   "description": "Converts files to uppercase",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "repository": {
-    "url": "https://github.com/athahar/replace"
+    "url": "https://github.com/athahar/uppercaseme"
   },
   "main": "./lib/uppercaseme",
   "keywords": [
